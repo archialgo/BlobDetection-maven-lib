@@ -1,4 +1,5 @@
 # BlobDetection-maven-lib
+[![](https://jitpack.io/v/archialgo/BlobDetection-maven-lib.svg)](https://jitpack.io/#archialgo/BlobDetection-maven-lib)   
 original author: [v3ga](http://www.v3ga.net/)  
 
 ## Supported Versions:  
