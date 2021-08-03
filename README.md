@@ -3,7 +3,7 @@
 original author: [v3ga](http://www.v3ga.net/)  
 
 ## Supported Versions:  
-1.0
+- 1.0
 
 ## How to
 **Step 1.** Add the JitPack repository to your build file
